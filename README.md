@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 	<img src="https://soybeanjs-1300612522.cos.ap-guangzhou.myqcloud.com/uPic/soybean.svg" style="width: 160px;"/>
 	<h1>Soybean Admin</h1>
@@ -178,3 +179,6 @@ docker run --name soybean -p 80:80 -d soybeanjs/soybean-admin:v0.9.6
 ## License
 
 本项目基于[MIT © Soybean-2021](./LICENSE) 协议，仅供参考学习，商用时请保留作者的版权信息，作者不对软件做担保和负责。
+=======
+# Module
+>>>>>>> b3b35d2dd8ed948c017c99d372b40538f8257a64

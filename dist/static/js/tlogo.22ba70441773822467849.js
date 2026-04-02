@@ -1,0 +1,1 @@
+const s="/static/svg/tlogo.eba0a3ef1773822467849.svg";export{s as _};

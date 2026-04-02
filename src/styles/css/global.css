@@ -1,0 +1,77 @@
+@import "./transition.css";
+@import "./reset.css";
+html,
+body,
+#app {
+    height: 100%;
+}
+
+.SearchBox .n-select,
+.SearchBox .n-input {
+    /* width: 220px!important; */
+	min-width: 220px;
+	font-size:12px
+}
+.SearchBox .n-button{
+	font-size:12px
+}
+.SearchBox {
+    margin-bottom: 12px;
+}
+
+.actionBtn {
+    color: #165DFF;
+    cursor: pointer;
+}
+
+.n-page-header .n-page-header__back {
+    margin-right: 0px;
+}
+
+.n-modal>.n-card-header {
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-weight: bolder;
+}
+.n-data-table .n-data-table-th{
+		font-weight:700
+	}
+.SearchBox{
+	margin-bottom:16px;
+}
+.n-input{
+	overflow: hidden;
+}
+.n-base-selection .n-tag{
+	background:#f4f4f5 ;
+	color: #909399;
+	height: 24px;
+}
+.n-base-selection .n-tag__border{
+	border-color: #e9e9eb!important;
+	border-radius:6px!important;
+}
+.n-base-selection .n-tag__content{
+	font-size: 12px;;
+}
+.n-tag .n-base-close{
+	border-radius:8px;
+}
+.n-base-selection .n-tag .n-base-close svg{
+	width:10px;
+	height: 10px;
+	margin-left:2px;
+	margin-top: 2px;
+}
+.n-base-selection  .n-base-close::before{
+	width: 14px;
+	height: 14px;
+	background: #c0c4cc;
+}
+html,body{
+	font-family:  "PingFang SC",-apple-system, BlinkMacSystemFont, Helvetica, Tahoma, Arial, "Microsoft YaHei", 微软雅黑, sans-serif!important;
+}

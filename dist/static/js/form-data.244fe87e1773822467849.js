@@ -1,0 +1,1 @@
+import{a as o}from"./@babel.2d456deb1773822467849.js";const a=o("object"==typeof self?self.FormData:window.FormData);export{a as F};

@@ -1,0 +1,1 @@
+import{o as a,a as e,b as n}from"./@vue.e91638fb1773822467849.js";const o={class:"inline-block",viewBox:"0 0 24 24",width:"1em",height:"1em"},r=[n("path",{fill:"currentColor",d:"M18 12.998h-5v5a1 1 0 0 1-2 0v-5H6a1 1 0 0 1 0-2h5v-5a1 1 0 0 1 2 0v5h5a1 1 0 0 1 0 2z"},null,-1)];const s={name:"ic-round-plus",render:function(n,s){return a(),e("svg",o,r)}};export{s as _};

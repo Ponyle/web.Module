@@ -1,0 +1,1 @@
+const a="/static/svg/Avatar.a494c5491773822467849.svg";export{a as _};
